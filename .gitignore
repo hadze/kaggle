@@ -156,8 +156,10 @@ settings.json
 # documentation
 *.pptx
 
-# some datafiles
+# some datafiles/folders
 *.icloud
+data/
+work/
 
 # annoying mac os stuff
 *.DS_Store
