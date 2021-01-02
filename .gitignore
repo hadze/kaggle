@@ -161,3 +161,6 @@ settings.json
 
 # annoying mac os stuff
 *.DS_Store
+
+# VS Code stuff
+*.code-workspace
